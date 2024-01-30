@@ -58,5 +58,9 @@ The model is tested on a separate test dataset. The accuracy and performance of 
 ## GUI Application
 
 A Tkinter-based GUI application is included for easy interaction with the model. Users can upload traffic sign images, and the model will classify them in real-time.
-
+##Chart with accuracy and epochs
 ![Image showing chart with accuracy and epochs](accuracy5epochs.png)
+##Chart with loss and epochs
+![Image showing chart with loss and epochs](loss5epochs.png)
+##Poster
+![Poster](soft_poster_lepsi.png)
