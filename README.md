@@ -32,7 +32,7 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn pillow
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/branislavstojkovic70/Traffic-Sign-Recognition.git
 ```
 
 ## Usage
